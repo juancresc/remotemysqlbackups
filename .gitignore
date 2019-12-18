@@ -1,0 +1,8 @@
+databases_ex
+databases_full
+databases_pass
+backups/
+databases*
+.idea/
+.DS_Store
+venv/
